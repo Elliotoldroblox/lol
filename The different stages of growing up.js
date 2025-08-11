@@ -1,7 +1,7 @@
 function bookmark() {
   if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4)) {
     var url = "https://www.youtube.com/shorts/2k2JjdWSNOQ?feature=share";
-    var title = "BEST CURSED LEGO  pieces...I I Build a LEGO";
+    var title = "BEST CURSED LEGO  pieces...I I Build a LEGO Hack Minifigure...";
 
     window.external.AddFavorite(url, title);
   }
