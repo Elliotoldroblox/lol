@@ -100,9 +100,9 @@ window.onkeydown = function() {
 }
 
 window.onbeforeunload = function() {
-    return "The different stages of growing up?";
+    return "lo?";
 };
 /* [Oct 2021] End of amendments. */
 window.onbeforeunload = function() {
-    return "URL:https://www.youtube.com/shorts/BjRCRXw0W6s?feature=share";
+    return "URL:https://youtu.be/2k2JjdWSNOQ";
 };
